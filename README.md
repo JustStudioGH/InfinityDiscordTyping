@@ -9,7 +9,7 @@ IDT (InfinityDiscordTyping) - It's a script which allows you to "type" in chats 
 ### Setup
 - You need [Python](https://www.python.org/downloads/) for it.
 - Module: requests.
-## Run the script
+### Run the script
 - Download from [here](https://github.com/JustStudioGH/InfinityDiscordTyping/blob/main/InfinityDiscordTyping.py) or in repository "InfinityDiscordTyping.py".
 - Change the ChannelID and Discord token in file.
 - (Preferably) Run ".py" file in CMD or Termenal.
